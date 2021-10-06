@@ -7,9 +7,10 @@ public class DemoGit {
 		System.out.println("Hello this is m1");
 	}
 	
-	public static void main(String[] args) {
-		
+	public static void main(String[] args) 
+	{		
 		System.out.println("hello Git");
-		
+		Demo d1=new Demo();
+		d1.m1();
 	}
 }
