@@ -17,5 +17,6 @@ public class DemoGit {
 		System.out.println("hello Git");
 		DemoGit d1=new DemoGit();
 		d1.m1();
+		d1.m2();
 	}
 }
