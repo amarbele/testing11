@@ -17,5 +17,6 @@ public class Demo2
 		System.out.println("hello cjc");
 		Demo2  de=new Demo2();
 		de.m1();
+		de.m2();
 	}
 }
